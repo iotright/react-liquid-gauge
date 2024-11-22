@@ -1,6 +1,6 @@
 TAP version 14
 # Subtest: noop
     1..0
-ok 1 - noop # time=4.812ms
+ok 1 - noop # time=3.534ms
 
 1..1
