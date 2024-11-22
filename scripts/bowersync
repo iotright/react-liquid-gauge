@@ -9,6 +9,7 @@ var bower = require('../bower.json');
 Object.keys(bower).forEach((key) => {
   bower[key] = pkg[key] || bower[key];
 });
+//Check the contributors is null before using map
 bower.authors = pkg.contributors?.map((author) => {
   return {
     name: author.name,
