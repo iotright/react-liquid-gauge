@@ -1,5 +1,5 @@
 {
-  "date": "2024-11-22T08:55:21.983Z",
+  "date": "2024-11-22T09:11:47.377Z",
   "argv": [
     "C:\\Program Files\\nodejs\\node.exe",
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\test\\index.js"
@@ -16,16 +16,16 @@
   ],
   "NODE_OPTIONS": "\"--import=file:///C:/Users/USER/Documents/AltrosynProject/react-liquid-gauge/node_modules/@tapjs/processinfo/dist/esm/import.mjs\"",
   "cwd": "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge",
-  "pid": 23008,
-  "ppid": 23580,
+  "pid": 7364,
+  "ppid": 6380,
   "parent": null,
-  "uuid": "98b3d4c0-904d-455d-9c8c-c50885f7911c",
+  "uuid": "a270e613-656b-452e-b913-29eea81ff3dc",
   "files": [
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\test\\index.js",
-    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\read-json.js",
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\find-star-match.js",
-    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\walk-up-path\\dist\\esm\\index.js",
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\node_modules\\glob\\dist\\esm\\index.js",
+    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\walk-up-path\\dist\\esm\\index.js",
+    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\read-json.js",
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\node_modules\\minimatch\\dist\\esm\\index.js",
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\node_modules\\glob\\dist\\esm\\glob.js",
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\node_modules\\glob\\dist\\esm\\has-magic.js",
@@ -59,37 +59,37 @@
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\get-all-conditional-values.js",
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\get-all-conditions.js",
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\get-unique-condition-sets.js",
-    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\resolve-all-local-imports.js",
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\resolve-all-exports.js",
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\resolve-conditional-value.js",
+    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\resolve-all-local-imports.js",
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\resolve-import.js",
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\is-windows.js",
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\@tapjs\\stack\\dist\\esm\\parse.js",
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\get-conditional-values-list.js",
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\errors.js",
-    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\file-exists.js",
-    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\find-dep-package.js",
-    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\star-glob.js",
-    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\read-pkg.js",
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\get-named-exports-list.js",
+    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\read-pkg.js",
+    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\star-glob.js",
+    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\resolve-export.js",
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\to-file-url.js",
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\to-path.js",
+    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\file-exists.js",
+    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\find-dep-package.js",
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\resolve-dependency-export.js",
-    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\resolve-export.js",
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\resolve-package-import.js"
   ],
   "sources": {
-    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\read-json.js": [
-      "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\read-json.ts"
-    ],
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\find-star-match.js": [
       "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\find-star-match.ts"
+    ],
+    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\node_modules\\glob\\dist\\esm\\index.js": [
+      "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\node_modules\\glob\\src\\index.ts"
     ],
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\walk-up-path\\dist\\esm\\index.js": [
       "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\walk-up-path\\src\\index.ts"
     ],
-    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\node_modules\\glob\\dist\\esm\\index.js": [
-      "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\node_modules\\glob\\src\\index.ts"
+    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\read-json.js": [
+      "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\read-json.ts"
     ],
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\node_modules\\minimatch\\dist\\esm\\index.js": [
       "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\node_modules\\minimatch\\src\\index.ts"
@@ -178,14 +178,14 @@
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\get-unique-condition-sets.js": [
       "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\get-unique-condition-sets.ts"
     ],
-    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\resolve-all-local-imports.js": [
-      "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\resolve-all-local-imports.ts"
-    ],
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\resolve-all-exports.js": [
       "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\resolve-all-exports.ts"
     ],
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\resolve-conditional-value.js": [
       "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\resolve-conditional-value.ts"
+    ],
+    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\resolve-all-local-imports.js": [
+      "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\resolve-all-local-imports.ts"
     ],
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\resolve-import.js": [
       "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\resolve-import.ts"
@@ -202,20 +202,17 @@
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\errors.js": [
       "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\errors.ts"
     ],
-    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\file-exists.js": [
-      "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\file-exists.ts"
-    ],
-    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\find-dep-package.js": [
-      "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\find-dep-package.ts"
-    ],
-    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\star-glob.js": [
-      "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\star-glob.ts"
+    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\get-named-exports-list.js": [
+      "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\get-named-exports-list.ts"
     ],
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\read-pkg.js": [
       "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\read-pkg.ts"
     ],
-    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\get-named-exports-list.js": [
-      "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\get-named-exports-list.ts"
+    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\star-glob.js": [
+      "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\star-glob.ts"
+    ],
+    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\resolve-export.js": [
+      "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\resolve-export.ts"
     ],
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\to-file-url.js": [
       "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\to-file-url.ts"
@@ -223,19 +220,22 @@
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\to-path.js": [
       "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\to-path.ts"
     ],
+    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\file-exists.js": [
+      "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\file-exists.ts"
+    ],
+    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\find-dep-package.js": [
+      "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\find-dep-package.ts"
+    ],
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\resolve-dependency-export.js": [
       "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\resolve-dependency-export.ts"
-    ],
-    "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\resolve-export.js": [
-      "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\resolve-export.ts"
     ],
     "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\dist\\esm\\resolve-package-import.js": [
       "C:\\Users\\USER\\Documents\\AltrosynProject\\react-liquid-gauge\\node_modules\\resolve-import\\src\\resolve-package-import.ts"
     ]
   },
-  "root": "98b3d4c0-904d-455d-9c8c-c50885f7911c",
+  "root": "a270e613-656b-452e-b913-29eea81ff3dc",
   "externalID": "test/index.js",
   "code": 0,
   "signal": null,
-  "runtime": 2767.0461999999998
+  "runtime": 2372.4652
 }
