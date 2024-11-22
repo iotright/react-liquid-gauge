@@ -1,6 +1,6 @@
 {
   "name": "react-liquid-gauge",
-  "version": "1.3.0",
+  "version": "2.0.0",
   "description": "React Liquid Gauge component",
   "main": "lib/index.js",
   "files": [
@@ -23,7 +23,7 @@
     "type": "git",
     "url": "git+https://github.com/trendmicro-frontend/react-liquid-gauge.git"
   },
-  "author": "Cheton Wu",
+  "author": "IoTRight fork from Cheton Wu",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/trendmicro-frontend/react-liquid-gauge/issues"
